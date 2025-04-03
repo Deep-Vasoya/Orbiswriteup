@@ -28,7 +28,6 @@ cycler==0.12.1
 debugpy==1.8.1
 decorator==5.1.1
 defusedxml==0.7.1
-document==1.0
 docx==0.2.4
 et-xmlfile==1.1.0
 executing==2.0.1
