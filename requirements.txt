@@ -19,7 +19,6 @@ bs4==0.0.2
 certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
-chromedrivermanager==0.0.1
 click==8.1.8
 colorama==0.4.6
 comm==0.2.2
