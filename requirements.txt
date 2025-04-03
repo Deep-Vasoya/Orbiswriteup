@@ -100,7 +100,7 @@ pandas==2.2.2
 pandocfilters==1.5.1
 paradict==0.0.16
 parso==0.8.4
-peewee
+peewee==3.16.0
 pillow==10.3.0
 platformdirs==4.2.2
 playwright==1.50.0
